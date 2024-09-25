@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -216,9 +216,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "no_connect_connected|990600|774700|40838d9f-6b96-4272-94cb-6c191fc617bc|bfa02c79-d3cc-4b68-b29c-ea258df704a1|/3ed93637-596a-4ddd-bff5-d73cd94ef8c5||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
