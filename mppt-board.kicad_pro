@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 4.499864,
+          "height": 5.52,
+          "width": 5.52
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -216,7 +216,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "no_connect_connected|990600|774700|40838d9f-6b96-4272-94cb-6c191fc617bc|bfa02c79-d3cc-4b68-b29c-ea258df704a1|/3ed93637-596a-4ddd-bff5-d73cd94ef8c5||"
+    ],
     "meta": {
       "version": 0
     },
@@ -466,7 +468,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "mppt-board.step",
